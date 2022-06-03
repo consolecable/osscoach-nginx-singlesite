@@ -1,1 +1,5 @@
-# https://www.nginx.com/blog/socket-sharding-nginx-release-1-9-1/
+#https://www.digitalocean.com/community/tools/nginx?domains.0.server.domain=dev.osscoach.com&domains.0.server.wwwSubdomain=true&domains.0.server.cdnSubdomain=true&global.https.ocspCloudflareType=both&global.https.ocspGoogleType=both&global.https.ocspOpenDnsType=both&global.https.ocspQuad9=true&global.https.ocspQuad9Type=both&global.https.ocspVerisign=true&global.https.ocspVerisignType=both
+
+https://www.nginx.com/blog/socket-sharding-nginx-release-1-9-1/
+
+https://nginx.org/en/docs/http/ngx_http_limit_req_module.html
